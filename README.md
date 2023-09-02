@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ángel Angulo</h1>
-<h3 align="center">Soy un apasionado programador fullstack con experiencia especializada en el mundo de Java y Angular. Originario de España 🌄, me dedico a crear soluciones tecnológicas innovadoras y eficientes.</h3>
+<h3 align="center">I am a passionate fullstack programmer with specialized experience in the world of Java and Angular. Hailing from Spain 🌄, I am dedicated to creating innovative and efficient technological solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaixe455&label=Profile%20views&color=0e75b6&style=flat" alt="kaixe455" /> </p>
 
